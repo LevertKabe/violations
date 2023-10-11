@@ -17,7 +17,7 @@ Projeto CRUD com PostgreSQL. <br/>
 <br>
 
 <p align="center">
-  <img alt="crud_sql" src=".github/preview.png" width="37%">
+  <img alt="crud_sql" src=".github/preview.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
