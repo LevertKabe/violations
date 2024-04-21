@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/levert/Code/CRUD-PostgreSQL/WebPostgreSQL/WebPostgreSQL.csproj": {}
+    "/Users/malo/violations/WebPostgreSQL/WebPostgreSQL.csproj": {}
   },
   "projects": {
-    "/Users/levert/Code/CRUD-PostgreSQL/WebPostgreSQL/WebPostgreSQL.csproj": {
+    "/Users/malo/violations/WebPostgreSQL/WebPostgreSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/levert/Code/CRUD-PostgreSQL/WebPostgreSQL/WebPostgreSQL.csproj",
+        "projectUniqueName": "/Users/malo/violations/WebPostgreSQL/WebPostgreSQL.csproj",
         "projectName": "WebPostgreSQL",
-        "projectPath": "/Users/levert/Code/CRUD-PostgreSQL/WebPostgreSQL/WebPostgreSQL.csproj",
-        "packagesPath": "/Users/levert/.nuget/packages/",
-        "outputPath": "/Users/levert/Code/CRUD-PostgreSQL/WebPostgreSQL/obj/",
+        "projectPath": "/Users/malo/violations/WebPostgreSQL/WebPostgreSQL.csproj",
+        "packagesPath": "/Users/malo/.nuget/packages/",
+        "outputPath": "/Users/malo/violations/WebPostgreSQL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/levert/.nuget/NuGet/NuGet.Config"
+          "/Users/malo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,6 +73,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

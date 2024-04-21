@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebPostgreSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52f6fd5198aedbf2f0deed7eafc0e95356fb2560")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae68a764d63d30d987d8e69f6b1869f25627cd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebPostgreSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebPostgreSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
